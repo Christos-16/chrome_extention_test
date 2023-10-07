@@ -30,7 +30,7 @@ This Chrome extension, named "Chrome Extension_Test" is designed to enhance your
 3. https://www.youtube.com/watch?v=0n809nd4Zu4&t=1008s
 4. https://www.youtube.com/watch?v=B8Ihv3xsWYs
 5. https://www.youtube.com/watch?v=uV4L-wcnK3Y&t=352s
-6. chat.openai.com (For help with understanding code and answers to difficult points that I needed to understand in order to continue)
+6. https://chat.openai.com/ (For help with understanding code and answers to difficult points that I needed to understand in order to continue)
 7. https://www.deepl.com/translator (For translations of concepts I didn't understand)
 
 ##Problems I'm facing and want to see by Wednesday
@@ -76,7 +76,7 @@ This Chrome extension, named "Chrome Extension_Test" is designed to enhance your
 3. https://www.youtube.com/watch?v=0n809nd4Zu4&t=1008s
 4. https://www.youtube.com/watch?v=B8Ihv3xsWYs
 5. https://www.youtube.com/watch?v=uV4L-wcnK3Y&t=352s
-6. chat.openai.com (Για βοήθεια στην κατανόηση του κώδικα και απαντήσεις σε δύσκολα σημεία που έπρεπε να καταλάβω για να συνεχίσω)
+6. https://chat.openai.com/ (Για βοήθεια στην κατανόηση του κώδικα και απαντήσεις σε δύσκολα σημεία που έπρεπε να καταλάβω για να συνεχίσω)
 7. https://www.deepl.com/translator (Για μεταφράσεις εννοιών που δεν κατάλαβα)
 
 
