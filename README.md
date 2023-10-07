@@ -33,7 +33,7 @@ This Chrome extension, named "Chrome Extension_Test" is designed to enhance your
 6. https://chat.openai.com/ (For help in understanding the code and answers to difficult concepts that I needed to understand in order to continue)
 7. https://www.deepl.com/translator (For translations of concepts I didn't understand)
 
-##Problems I'm facing and want to see by Wednesday
+## Problems I'm facing and want to see by Wednesday
 1. I'm stuck in creating text markup, right-clicking extention selection and simultaneous copying as the extention selection is made
 
 ## Version
@@ -80,7 +80,7 @@ This Chrome extension, named "Chrome Extension_Test" is designed to enhance your
 7. https://www.deepl.com/translator (Για μεταφράσεις εννοιών που δεν κατάλαβα)
 
 
-##Προβλήματα που αντιμετωπίζω και θέλω να δω έως και την Τετάρτη
+## Προβλήματα που αντιμετωπίζω και θέλω να δω έως και την Τετάρτη
 1. Έχω κολλήσει στη δημιουργία μαρκαρίσματος κειμένου, επιλογής του extention με δεξί κλικ και ταυτόχρονης αντιγραφής καθώς γίνεται η επιλογή του extention
    
 ## Έκδοση
