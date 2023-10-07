@@ -24,6 +24,18 @@ This Chrome extension, named "Chrome Extension_Test" is designed to enhance your
 3. Choose "Copy Text" to copy the selected text to your clipboard.
 4. Choose "Search for [selected text]" to perform a Google search with the selected text.
 
+## Tools and Videos that helped
+1. https://developer.chrome.com/docs/extensions/mv3/getstarted/extensions-101/
+2. https://www.freecodecamp.org/news/building-chrome-extension/
+3. https://www.youtube.com/watch?v=0n809nd4Zu4&t=1008s
+4. https://www.youtube.com/watch?v=B8Ihv3xsWYs
+5. https://www.youtube.com/watch?v=uV4L-wcnK3Y&t=352s
+6. chat.openai.com (For help with understanding code and answers to difficult points that I needed to understand in order to continue)
+7. https://www.deepl.com/translator (For translations of concepts I didn't understand)
+
+##Problems I'm facing and want to see by Wednesday
+1. I'm stuck in creating text markup, right-clicking extention selection and simultaneous copying as the extention selection is made
+
 ## Version
 1.0
 
@@ -58,6 +70,19 @@ This Chrome extension, named "Chrome Extension_Test" is designed to enhance your
 3. Επιλέξτε "Αντιγραφή κειμένου" για να αντιγράψετε το επιλεγμένο κείμενο στο πρόχειρο.
 4. Επιλέξτε "Αναζήτηση για [επιλεγμένο κείμενο]" για να εκτελέσετε μια αναζήτηση στο Google με το επιλεγμένο κείμενο.
 
+## Εργαλεία και βίντεο που βοήθησαν
+1. https://developer.chrome.com/docs/extensions/mv3/getstarted/extensions-101/
+2. https://www.freecodecamp.org/news/building-chrome-extension/
+3. https://www.youtube.com/watch?v=0n809nd4Zu4&t=1008s
+4. https://www.youtube.com/watch?v=B8Ihv3xsWYs
+5. https://www.youtube.com/watch?v=uV4L-wcnK3Y&t=352s
+6. chat.openai.com (Για βοήθεια στην κατανόηση του κώδικα και απαντήσεις σε δύσκολα σημεία που έπρεπε να καταλάβω για να συνεχίσω)
+7. https://www.deepl.com/translator (Για μεταφράσεις εννοιών που δεν κατάλαβα)
+
+
+##Προβλήματα που αντιμετωπίζω και θέλω να δω έως και την Τετάρτη
+1. Έχω κολλήσει στη δημιουργία μαρκαρίσματος κειμένου, επιλογής του extention με δεξί κλικ και ταυτόχρονης αντιγραφής καθώς γίνεται η επιλογή του extention
+   
 ## Έκδοση
 1.0
 
