@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3, // Manifest version 3, η μορφή για τις επεκτάσεις του Chrome (εγω χρησιοποιώ Brave οπότε αντίστοιχα για το Brave).
+    "name": "Highlight to Search in your Browser", //Όνομα επέκτασης
+    "version": "1.0", // Αριθμός έκδοσης του extention..
+    "description": "A test for Chrome extension.", // Σύντομη περιγραφή της επέκτασης.
+    "permissions": [
+        "activeTab", // Άδεια λειτουργίας με την τρέχουσα ενεργή καρτέλα.
+        "contextMenus", //Άδεια δημιουργίας μενού
+        "clipboardWrite" // Άδεια εγγραφής στο πρόχειρο.
+    ],
+    "context_menus": {
+        "id": "copyText", // ID για το στοιχείο του μενού περιβάλλοντος.
+        "title": "Copy Text", // Τίτλος του στοιχείου του μενού περιβάλλοντος.
+        "contexts": ["selection"] // Το πλαίσιο στο οποίο εμφανίζεται αυτό το στοιχείο μενού (επιλογή κειμένου).
+    },
+    "background": {
+        "service_worker": "background.js" // Καθορίζει ένα σενάριο για εργασίες παρασκηνίου.
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"], // Οι διευθύνσεις URL (όλες οι διευθύνσεις URL).
+            "js": ["content.js"] // Το αρχείο JavaScript για την εισαγωγή σε ιστοσελίδες.
+        }
+    ],
+    "action": {
+        "default_popup": "popup.html", // Η προεπιλεγμένη HTML του popup για την επέκτασή.
+        "default_icon": {
+            "16": "images/copy.png", // Εικονίδιο για την επέκταση (16x16 pixels).
+            "48": "images/copy.png", // Εικονίδιο για την επέκταση (48x48 pixels).
+            "128": "images/copy.png" // Εικονίδιο για την επέκταση (128x128 pixels).
+        } //Στα εικονίδι όσο και να έψαξα δεν βρήκα πουθενά ξεχωριστά μεγέθη για κάθε απο τα ζητούμενα pixels που έχω
+οπότε έβαλα μια φωτογραφία για όλα την οποία την πήρα απο το https://www.flaticon.com/
+    }
+}

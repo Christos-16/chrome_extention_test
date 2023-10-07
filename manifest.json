@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "name": "Chrome Extension_Test",
+    "version": "1.0",
+    "description": "A test for Chrome extension.",
+    "permissions": [
+      "activeTab",
+      "contextMenus",
+      "clipboardWrite"
+    ],
+    "contextMenus": {
+      "id": "copyText",
+      "title": "Copy Text",
+      "contexts": ["selection"]
+    },
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/copy.png",
+        "48": "images/copy.png",
+        "128": "images/copy.png"
+      }
+    }
+  }
